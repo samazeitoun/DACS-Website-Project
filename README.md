@@ -1,2 +1,2 @@
 # DACS-Website-Project
-This project showcases core tech fields, guiding users through AI, cybersecurity, software engineering, and data science career paths.
+This interactive web project, Navigating Your Future, introduces key technology fields—Artificial Intelligence, Cyber Security, Software Engineering, and Data Science. Through engaging visuals and structured content, users explore each discipline's fundamentals and career paths. It serves as a dynamic educational guide for students and tech enthusiasts planning their future in technology.
